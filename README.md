@@ -1,8 +1,14 @@
 # apple_health_flutter
 
-A new Flutter project.
+A Flutter project cross platform for Android and iOS, to be continued~
+
+Apple reference site: https://www.apple.com.cn/ios/health/
 
 ## Getting Started
+
+Apple reference site: https://www.apple.com.cn/ios/health/
+
+
 
 This project is a starting point for a Flutter application.
 
